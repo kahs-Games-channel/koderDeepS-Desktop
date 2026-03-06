@@ -1,6 +1,6 @@
 koderDeepS Desktop
 
-<img width="512" height="512" alt="koderDeepS-Desktop" src="https://github.com/user-attachments/assets/3f7ad4ff-40da-4ef4-a752-770e18354922" />
+<img width="250" height="250" alt="koderDeepS-Desktop" src="https://github.com/user-attachments/assets/3f7ad4ff-40da-4ef4-a752-770e18354922" />
 
 
 🚀 AI-IDE для работы с DeepSeek
